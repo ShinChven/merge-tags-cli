@@ -51,10 +51,6 @@ merge-tags <directory_path> [options]
     merge-tags ./project_tags -o ./all_project_tags.txt
     ```
 
-## Development
+## License
 
-This project is managed with `pyproject.toml`.
-
-- Author: ShinChven
-- Email: shinchven@gmail.com
-- Repository: https://github.com/ShinChven/merge-tags-cli
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
